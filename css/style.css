@@ -1,0 +1,74 @@
+.head{
+  background-color: #63B747;
+}
+
+.img-tag{
+  padding: 30px;
+}
+
+.navbar{
+  background-color: #4A8C34;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: white;
+  margin-left: 50px;
+  font-weight: bold;
+  font-weight: 13px;
+}
+
+.content{
+  background-color: #284bb4;
+  color: white;
+  height: 35s0px;
+  margin-bottom: 70px;
+}
+
+.GJA{
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 60px;
+}
+
+.despite{
+  font-size: 30px;
+  text-align: center;
+}
+
+body{
+  background-color:  #ebebeb;
+}
+
+.our-brand{
+  background-color: black;
+  color: white;
+  width: 130px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.carder{
+   background-color:    #d4d3d3;
+}
+
+.ending{
+  margin-top: 20px;
+  padding-top: 50px;
+  background-color: black;
+  color:  #959599;
+}
+
+.text-header{
+  font-weight: bold;
+  color: white;
+}
+
+.footer{
+background-color: #393838;
+color: #bebebf;
+padding-top: 10px;
+}

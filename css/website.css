@@ -1,0 +1,82 @@
+.Heading{
+	background-color: #FFB928FF;
+	margin-bottom: 50px;
+}
+.glovo{
+	margin-left: 100px;
+}
+.search{
+	width: 450px;
+	border: 1px;
+	border-radius: 25px;
+	height: 45px;
+	background-color: white;
+	font-size: 20px;
+	color: gray;
+	margin-left: 100px;
+}
+.started{
+	background-color: green;
+	color: white;
+	border: 1px;
+	border-radius: 25px;
+	width: 150px;
+	height: 40px;
+	font-weight: bold;
+	margin-left: 200px;
+}
+hr{
+	width: 300px;
+}
+.sort{
+	font-weight: bolder;
+}
+a{
+	color: black;
+}
+.Supermarket{
+	font-weight: bolder;
+	font-size: 30px;
+}
+.promo{
+	font-weight: bolder;
+	font-size: 30px;
+}
+.palace{
+	font-weight: bolder;
+	font-size: 20px;
+}
+.stores{
+	font-weight: bolder;
+	font-size: 30px;
+}
+.brodo{
+	font-weight: bolder;
+	font-size: 20px;
+}
+.wednesday{
+	background-color: white;
+	border-radius: 5px;
+	font-size: 15px;
+	border: none;
+	height: 35px;
+	width: 200px;
+	font-weight: bolder;
+}
+.card1{
+	border: none;
+	margin-bottom: 30px;
+}
+.footer{
+	background-color: black;
+	color: white;
+}
+.footer-text{
+	font-weight: bolder;
+	font-size: 20px;
+	text-align: center;
+}
+.footer-end{
+	text-align: center;
+	color:  #ccc;
+}
